@@ -15,4 +15,4 @@ prepare-android:
 	make install-uniffi-bindgen
 
 install-uniffi-bindgen:
-	cargo install uniffi_bindgen --version 0.17.0
+	cargo install uniffi_bindgen --version 0.21.0
